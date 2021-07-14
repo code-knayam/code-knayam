@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="code-knayam Spotify Playing" width="350" />](https://open.spotify.com/user/31ahnte6yddsfh7imrtqvhpymb2q)
+[![Spotify](https://novatorem-code-knayam.vercel.app/api/spotify)](https://open.spotify.com/user/31ahnte6yddsfh7imrtqvhpymb2q)
 
 <hr />
 
@@ -40,7 +40,6 @@
 
 <img alt="code-knayam's GitHub Stats" src="https://github-readme-stats-code-knayam.vercel.app/api?username=code-knayam&show_icons=true&hide_border=true" />
 
-<br />
 <br />
 <br />
 
