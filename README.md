@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Mayank
 
 - 🔭 I’m currently working with a Pune, India based company
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on any cool project
 - ⚡ Fun fact: I'm a day-dreamer
 
@@ -48,3 +48,7 @@
 <br />
 
 <img alt="code-knayam's GitHub Stats" src="https://github-readme-stats-code-knayam.vercel.app/api/top-langs?username=code-knayam&langs_count=8&show_icons=true&hide_border=true" />
+
+###⚡HacktoberFest
+[![@codeknayam's Holopin board](https://holopin.me/codeknayam)](https://holopin.io/@codeknayam)
+
