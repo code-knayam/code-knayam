@@ -49,6 +49,6 @@
 
 <img alt="code-knayam's GitHub Stats" src="https://github-readme-stats-code-knayam.vercel.app/api/top-langs?username=code-knayam&langs_count=8&show_icons=true&hide_border=true" />
 
-###⚡HacktoberFest
+### ⚡HacktoberFest
 [![@codeknayam's Holopin board](https://holopin.me/codeknayam)](https://holopin.io/@codeknayam)
 
