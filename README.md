@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Mayank
 
 - 🔭 I’m currently working with a Pune, India based company
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning web3
 - 👯 I’m looking to collaborate on any cool project
 - ⚡ Fun fact: I'm a day-dreamer
 
